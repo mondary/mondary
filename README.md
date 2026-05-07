@@ -6,152 +6,145 @@
 💬 Ask me about macOS apps, Chrome extensions, CLI tools, or AI automation.
 ⚡ Fun fact: I have 69+ projects and counting.
 
-📊 Stats
+Current Projects
 ---
-📁 69+ local projects
-🚀 Building tools at ludicrous speed
-📍 Paris, France
+👉 Chrome_MondaryNewTab - Various tools
 
-🖌️ Current Projects
----
-🌐 [Chrome_MondaryNewTab](https://github.com/mondary/Chrome_MondaryNewTab) - Various tools and utilities
+💻 Chrome_PKchromeShortcuts - ·
 
-🌐 [Chrome_PKchromeShortcuts](https://github.com/mondary/Chrome_PKchromeShortcuts) - ·
+🎹 Chrome_pkhighlighter - ·
 
-🌐 [Chrome_pkhighlighter](https://github.com/mondary/Chrome_pkhighlighter) - ·
+🎪 Chrome_PKscreenshotResizer - ·
 
-🌐 [Chrome_PKscreenshotResizer](https://github.com/mondary/Chrome_PKscreenshotResizer) - ·
+👻 Chrome_PKStickyNotesChrome - ·
 
-🌐 [Chrome_PKStickyNotesChrome](https://github.com/mondary/Chrome_PKStickyNotesChrome) - ·
+⚡ Chrome_RSSnoteMAIL - Various tools
 
-🌐 [Chrome_RSSnoteMAIL](https://github.com/mondary/Chrome_RSSnoteMAIL) - Various tools and utilities
+💡 Chrome_SimpleGMAIL - ·
 
-🌐 [Chrome_SimpleGMAIL](https://github.com/mondary/Chrome_SimpleGMAIL) - ·
+🎨 Chrome_SteamEPIC - Show your Epic Games on Steam website
 
-🌐 [Chrome_SteamEPIC](https://github.com/mondary/Chrome_SteamEPIC) - Show your Epic Games on Steam website
+⚡ Chrome_TranslateHighlighter - This Chrome extension provides instant text tra...
 
-🌐 [Chrome_TranslateHighlighter](https://github.com/mondary/Chrome_TranslateHighlighter) - This Chrome extension provides instant text translat...
+🎯 Chrome_WPgpt - Various tools
 
-🌐 [Chrome_WPgpt](https://github.com/mondary/Chrome_WPgpt) - Various tools and utilities
+👉 CLI_agentschooser - Un menu simple et rapide pour lancer l'agent CL...
 
-💻 [CLI_agentschooser](https://github.com/mondary/CLI_agentschooser) - Un menu simple et rapide pour lancer l'agent CLI de ...
+👉 CLI_PKcarreerMails - But: ouvrir Gmail en browser (login manuel), li...
 
-💻 [CLI_PKcarreerMails](https://github.com/mondary/CLI_PKcarreerMails) - But: ouvrir Gmail en browser (login manuel), lire `c...
+🧿 CLI_PKproc-ai - Various tools
 
-💻 [CLI_PKproc-ai](https://github.com/mondary/CLI_PKproc-ai) - Various tools and utilities
+🎚️ CLI_SteamEPIC - Various tools
 
-💻 [CLI_SteamEPIC](https://github.com/mondary/CLI_SteamEPIC) - Various tools and utilities
+👉 Codexbar - Various tools
 
-📦 [Codexbar](https://github.com/mondary/Codexbar) - Various tools and utilities
+🪝 Macos_browserAgent - ·
 
-🍎 [Macos_browserAgent](https://github.com/mondary/Macos_browserAgent) - ·
+🍭 Macos_GithubProjects - Outil de gestion de projets pour macOS avec men...
 
-🍎 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Outil de gestion de projets pour macOS avec menu bar...
+👉 Macos_PKdictation - Various tools
 
-🍎 [Macos_PKdictation](https://github.com/mondary/Macos_PKdictation) - Various tools and utilities
+🥠 Macos_PKpowerlines - Application macOS ultra-légère affichant l'util...
 
-🍎 [Macos_PKpowerlines](https://github.com/mondary/Macos_PKpowerlines) - Application macOS ultra-légère affichant l'utilisati...
+🦀 Macos_PKvibeyard - Canonical hub: `
 
-🍎 [Macos_PKvibeyard](https://github.com/mondary/Macos_PKvibeyard) - Canonical hub: `
+🚇 OpenIsland - Various tools
 
-📦 [OpenIsland](https://github.com/mondary/OpenIsland) - Various tools and utilities
+👉 PKnotes - Various tools
 
-🔧 [PKnotes](https://github.com/mondary/PKnotes) - Various tools and utilities
+✂️ RC_pkscripts - Des petits scripts pour Raycast qui automatisen...
 
-⚙️ [RC_pkscripts](https://github.com/mondary/RC_pkscripts) - Des petits scripts pour Raycast qui automatisent des...
+🪵 Stats - ·
 
-📦 [Stats](https://github.com/mondary/Stats) - ·
+🧮 VS_pkscriptcat_snippets - ·
 
-📦 [VS_pkscriptcat_snippets](https://github.com/mondary/VS_pkscriptcat_snippets) - ·
+🧳 VS_pkterminal - ·
 
-📦 [VS_pkterminal](https://github.com/mondary/VS_pkterminal) - ·
+⏳ VS_pkvsconf - ·
 
-📦 [VS_pkvsconf](https://github.com/mondary/VS_pkvsconf) - ·
+🗣️ Web_about - Various tools
 
-🌍 [Web_about](https://github.com/mondary/Web_about) - Various tools and utilities
+🧿 Web_allaitement - Simple breastfeeding timer with session trackin...
 
-🌍 [Web_allaitement](https://github.com/mondary/Web_allaitement) - Simple breastfeeding timer with session tracking and...
+🧰 Web_BGAcss - The BGA site is pretty old school and sometimes...
 
-🌍 [Web_BGAcss](https://github.com/mondary/Web_BGAcss) - The BGA site is pretty old school and sometimes just...
+🧮 Web_Cryptos - Small set of standalone HTML pages for crypto t...
 
-🌍 [Web_Cryptos](https://github.com/mondary/Web_Cryptos) - Small set of standalone HTML pages for crypto tracki...
+💻 Web_cuistobot - Cuistobot est une application web permettant de...
 
-🌍 [Web_cuistobot](https://github.com/mondary/Web_cuistobot) - Cuistobot est une application web permettant de gére...
+🎪 Web_cv - ·
 
-🌍 [Web_cv](https://github.com/mondary/Web_cv) - ·
+🚀 Web_GGdeals_collection - ·
 
-🌍 [Web_GGdeals_collection](https://github.com/mondary/Web_GGdeals_collection) - ·
+🦞 Web_hub - ·
 
-🌍 [Web_hub](https://github.com/mondary/Web_hub) - ·
+🍪 Web_mondaryTOOLS - Minimal landing page for mondary
 
-🌍 [Web_mondaryTOOLS](https://github.com/mondary/Web_mondaryTOOLS) - Minimal landing page for mondary
+🪝 Web_Ndf - Various tools
 
-🌍 [Web_Ndf](https://github.com/mondary/Web_Ndf) - Various tools and utilities
+🪶 Web_pinel - Various tools
 
-🌍 [Web_pinel](https://github.com/mondary/Web_pinel) - Various tools and utilities
+📞 Web_PK_ZombiGame - Various tools
 
-🌍 [Web_PK_ZombiGame](https://github.com/mondary/Web_PK_ZombiGame) - Various tools and utilities
+🔧 Web_pkchangedetection - Application PHP simple pour surveiller les chan...
 
-🌍 [Web_pkchangedetection](https://github.com/mondary/Web_pkchangedetection) - Application PHP simple pour surveiller les changemen...
+🛑 Web_pkcuisto - Pkcuisto is a lightweight recipe locker with au...
 
-🌍 [Web_pkcuisto](https://github.com/mondary/Web_pkcuisto) - Pkcuisto is a lightweight recipe locker with authent...
+🧵 Web_pkcuisto_WA - Pkcuisto is a lightweight recipe locker with au...
 
-🌍 [Web_pkcuisto_WA](https://github.com/mondary/Web_pkcuisto_WA) - Pkcuisto is a lightweight recipe locker with authent...
+🧑‍💻 Web_pkdiffchecker - Various tools
 
-🌍 [Web_pkdiffchecker](https://github.com/mondary/Web_pkdiffchecker) - Various tools and utilities
+🎭 Web_PKdomains - Minimal web dashboard for tracking domain expir...
 
-🌍 [Web_PKdomains](https://github.com/mondary/Web_PKdomains) - Minimal web dashboard for tracking domain expiration...
+🔊 Web_PKdotanimation - Various tools
 
-🌍 [Web_PKdotanimation](https://github.com/mondary/Web_PKdotanimation) - Various tools and utilities
+🏝️ Web_pkimagetools - ·
 
-🌍 [Web_pkimagetools](https://github.com/mondary/Web_pkimagetools) - ·
+🌈 Web_pkmenus - A simple, beautiful web-based dashboard designe...
 
-🌍 [Web_pkmenus](https://github.com/mondary/Web_pkmenus) - A simple, beautiful web-based dashboard designed to ...
+🧑‍💻 Web_PKmusicplayer - ·
 
-🌍 [Web_PKmusicplayer](https://github.com/mondary/Web_PKmusicplayer) - ·
+🎛️ Web_pkrubik - A single-file, vanilla HTML/CSS/JS Rubik's Cube...
 
-🌍 [Web_pkrubik](https://github.com/mondary/Web_pkrubik) - A single-file, vanilla HTML/CSS/JS Rubik's Cube simu...
+🎯 Web_pktravelgames - ·
 
-🌍 [Web_pktravelgames](https://github.com/mondary/Web_pktravelgames) - ·
+🐾 Web_PKwhiteboard - Whiteboard minimal en **Node
 
-🌍 [Web_PKwhiteboard](https://github.com/mondary/Web_PKwhiteboard) - Whiteboard minimal en **Node
+📍 Web_PlaningArtiste - Prototype web pour rechercher des dates de spec...
 
-🌍 [Web_PlaningArtiste](https://github.com/mondary/Web_PlaningArtiste) - Prototype web pour rechercher des dates de spectacle...
+🧭 Web_Raptor - Various tools
 
-🌍 [Web_Raptor](https://github.com/mondary/Web_Raptor) - Various tools and utilities
+🧳 Web_SciFi - Various tools
 
-🌍 [Web_SciFi](https://github.com/mondary/Web_SciFi) - Various tools and utilities
+🧲 Web_Scrappers - Various tools
 
-🌍 [Web_Scrappers](https://github.com/mondary/Web_Scrappers) - Various tools and utilities
+🧹 Web_Snippets_bga-css - The BGA site is pretty old school and sometimes...
 
-🌍 [Web_Snippets_bga-css](https://github.com/mondary/Web_Snippets_bga-css) - The BGA site is pretty old school and sometimes just...
+🎧 Web_steamYearinreview - Minimal hub for personal Steam Year in Review r...
 
-🌍 [Web_steamYearinreview](https://github.com/mondary/Web_steamYearinreview) - Minimal hub for personal Steam Year in Review recaps...
+📸 Web_test - Various tools
 
-🌍 [Web_test](https://github.com/mondary/Web_test) - Various tools and utilities
+⚙️ Web_ZombiGame - ·
 
-🌍 [Web_ZombiGame](https://github.com/mondary/Web_ZombiGame) - ·
+🎪 WP_pknewsletter - ·
 
-📝 [WP_pknewsletter](https://github.com/mondary/WP_pknewsletter) - ·
+🐦 WP_pkpremium - ·
 
-📝 [WP_pkpremium](https://github.com/mondary/WP_pkpremium) - ·
+🦞 WP_pkSocialSharing - Plugin WordPress “maison” pour publier automati...
 
-📝 [WP_pkSocialSharing](https://github.com/mondary/WP_pkSocialSharing) - Plugin WordPress “maison” pour publier automatiqueme...
+🎵 WP_ProjectsPage - Various tools
 
-📝 [WP_ProjectsPage](https://github.com/mondary/WP_ProjectsPage) - Various tools and utilities
+🍭 WP_RSocial - Collection of HTML assets and exports used for ...
 
-📝 [WP_RSocial](https://github.com/mondary/WP_RSocial) - Collection of HTML assets and exports used for socia...
+🧾 WP_Snippets - ·
 
-📝 [WP_Snippets](https://github.com/mondary/WP_Snippets) - ·
+📸 WP_websocket - Various tools
 
-📝 [WP_websocket](https://github.com/mondary/WP_websocket) - Various tools and utilities
+🖥️ WP_WordpressPOSTS - Various tools
 
-📝 [WP_WordpressPOSTS](https://github.com/mondary/WP_WordpressPOSTS) - Various tools and utilities
+🗣️ WP_wpagent - Plugin to capture quick "topics" from mobile (i...
 
-📝 [WP_wpagent](https://github.com/mondary/WP_wpagent) - Plugin to capture quick "topics" from mobile (inbox)...
-
-📝 [WP_YearInPixel](https://github.com/mondary/WP_YearInPixel) - Various tools and utilities
-
+🧩 WP_YearInPixel - Various tools
 
 💬 Let's talk about
 ---
