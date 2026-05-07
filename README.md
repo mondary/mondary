@@ -8,13 +8,13 @@
 
 Current Projects
 ---
-- 👉 [Chrome_MondaryNewTab](https://github.com/mondary/Chrome_MondaryNewTab) - Extension Chrome qui remplace l’onglet “Nouveau” par une mosaïque des dernier...
+- 👉 [Chrome_MondaryNewTab](https://github.com/mondary/Chrome_MondaryNewTab) - Chrome extension that replaces the “New” tab with a mosaic of the latest arti...
 - 💻 [Chrome_PKchromeShortcuts](https://github.com/mondary/Chrome_PKchromeShortcuts) - PK Chrome Shortcuts
 - 🎹 [Chrome_pkhighlighter](https://github.com/mondary/Chrome_pkhighlighter) - PK Keyword Highlighter 🖍️
 - 🎪 [Chrome_PKscreenshotResizer](https://github.com/mondary/Chrome_PKscreenshotResizer) - Screenshot Extension 1200x1200
 - 👻 [Chrome_PKStickyNotesChrome](https://github.com/mondary/Chrome_PKStickyNotesChrome) - PK Sticky Notes Chrome
 - ⚡ [Chrome_RSSnoteMAIL](https://github.com/mondary/Chrome_RSSnoteMAIL) - Various tools
-- 💡 [Chrome_SimpleGMAIL](https://github.com/mondary/Chrome_SimpleGMAIL) - ✨ Une extension Chrome qui simplifie l'interface de Gmail pour une expérience...
+- 💡 [Chrome_SimpleGMAIL](https://github.com/mondary/Chrome_SimpleGMAIL) - ✨ A Chrome extension that simplifies the Gmail interface for a cleaner, more ...
 - 🎨 [Chrome_SteamEPIC](https://github.com/mondary/Chrome_SteamEPIC) - Show your Epic Games on Steam website
 - ⚡ [Chrome_TranslateHighlighter](https://github.com/mondary/Chrome_TranslateHighlighter) - English Version 🇬🇧
 - 🎯 [Chrome_WPgpt](https://github.com/mondary/Chrome_WPgpt) - Various tools
@@ -33,31 +33,31 @@ Current Projects
 - ✂️ [RC_pkscripts](https://github.com/mondary/RC_pkscripts) - Raycast Scripts 🧰
 - 🪵 [Stats](https://github.com/mondary/Stats) - 🎯 Vue d'ensemble
 - 🧮 [VS_pkscriptcat_snippets](https://github.com/mondary/VS_pkscriptcat_snippets) - VS_PKscriptcat_snippets
-- 🧳 [VS_pkterminal](https://github.com/mondary/VS_pkterminal) - ✨ Extension VS Code simple et efficace pour ouvrir des terminaux **dans l’édi...
-- ⏳ [VS_pkvsconf](https://github.com/mondary/VS_pkvsconf) - ✨ Extension VS Code simple pour booster l'Explorer et la navigation du projet
+- 🧳 [VS_pkterminal](https://github.com/mondary/VS_pkterminal) - ✨ Simple and effective VS Code extension to open terminals **in the editor** ...
+- ⏳ [VS_pkvsconf](https://github.com/mondary/VS_pkvsconf) - ✨ Simple VS Code extension to boost Explorer and project navigation
 - 🗣️ [Web_about](https://github.com/mondary/Web_about) - Various tools
 - 🧿 [Web_allaitement](https://github.com/mondary/Web_allaitement) - Breastfeeding timer
 - 🧰 [Web_BGAcss](https://github.com/mondary/Web_BGAcss) - 🇬🇧 ENGLISH VERSION // Adding a custom CSS file to Board Game Arena
 - 🧮 [Web_Cryptos](https://github.com/mondary/Web_Cryptos) - Crypto mini tools
-- 💻 [Web_cuistobot](https://github.com/mondary/Web_cuistobot) - Cuistobot est une application web permettant de gérer vos recettes de cuisine...
-- 🎪 [Web_cv](https://github.com/mondary/Web_cv) - CV web interactif — version 2
+- 💻 [Web_cuistobot](https://github.com/mondary/Web_cuistobot) - Cuistobot is a web application to manage your cooking recipes in one place
+- 🎪 [Web_cv](https://github.com/mondary/Web_cv) - Interactive web CV — version 2
 - 🚀 [Web_GGdeals_collection](https://github.com/mondary/Web_GGdeals_collection) - GG.deals Wishlist Collection
-- 🦞 [Web_hub](https://github.com/mondary/Web_hub) - ✨ Hub personnel centralisant l'ensemble de mes projets, sites web et extensions
+- 🦞 [Web_hub](https://github.com/mondary/Web_hub) - ✨ Personal hub centralizing all of my projects, websites and extensions
 - 🍪 [Web_mondaryTOOLS](https://github.com/mondary/Web_mondaryTOOLS) - Mondary.tools landing
 - 🪝 [Web_Ndf](https://github.com/mondary/Web_Ndf) - Various tools
 - 🪶 [Web_pinel](https://github.com/mondary/Web_pinel) - Various tools
 - 📞 [Web_PK_ZombiGame](https://github.com/mondary/Web_PK_ZombiGame) - Various tools
-- 🔧 [Web_pkchangedetection](https://github.com/mondary/Web_pkchangedetection) - Change Detection (surveillance de pages web)
+- 🔧 [Web_pkchangedetection](https://github.com/mondary/Web_pkchangedetection) - Change Detection (web page monitoring)
 - 🛑 [Web_pkcuisto](https://github.com/mondary/Web_pkcuisto) - Pkcuisto is a lightweight recipe locker with authentication, an admin console...
 - 🧵 [Web_pkcuisto_WA](https://github.com/mondary/Web_pkcuisto_WA) - Pkcuisto is a lightweight recipe locker with authentication, an admin console...
 - 🧑‍💻 [Web_pkdiffchecker](https://github.com/mondary/Web_pkdiffchecker) - Various tools
 - 🎭 [Web_PKdomains](https://github.com/mondary/Web_PKdomains) - Domain Manager (PHP, minimal)
 - 🔊 [Web_PKdotanimation](https://github.com/mondary/Web_PKdotanimation) - Various tools
-- 🏝️ [Web_pkimagetools](https://github.com/mondary/Web_pkimagetools) - ✨ Détourage d'images local dans le navigateur : supprime l'arrière‑plan via O...
+- 🏝️ [Web_pkimagetools](https://github.com/mondary/Web_pkimagetools) - ✨ Local in-browser image clipping: removes background via ONNX + rembg-web, a...
 - 🌈 [Web_pkmenus](https://github.com/mondary/Web_pkmenus) - Menu TV Dashboard
 - 🧑‍💻 [Web_PKmusicplayer](https://github.com/mondary/Web_PKmusicplayer) - PK Music Player (V2)
 - 🎛️ [Web_pkrubik](https://github.com/mondary/Web_pkrubik) - Rubik's Cube Simulator
-- 🎯 [Web_pktravelgames](https://github.com/mondary/Web_pktravelgames) - ✨ Mini‑suite de jeux sociaux pour voyages et soirées
+- 🎯 [Web_pktravelgames](https://github.com/mondary/Web_pktravelgames) - ✨ Mini suite of social games for trips and parties
 - 🐾 [Web_PKwhiteboard](https://github.com/mondary/Web_PKwhiteboard) - PK Whiteboard (ultra léger)
 - 📍 [Web_PlaningArtiste](https://github.com/mondary/Web_PlaningArtiste) - Planning Artiste MVP
 - 🧭 [Web_Raptor](https://github.com/mondary/Web_Raptor) - Various tools
@@ -68,11 +68,11 @@ Current Projects
 - 📸 [Web_test](https://github.com/mondary/Web_test) - Various tools
 - ⚙️ [Web_ZombiGame](https://github.com/mondary/Web_ZombiGame) - ZombiHorde - Survival Game
 - 🎪 [WP_pknewsletter](https://github.com/mondary/WP_pknewsletter) - WP PK Newsletter
-- 🐦 [WP_pkpremium](https://github.com/mondary/WP_pkpremium) - Plugin WordPress pour gérer l'offre premium Mondary : abonnements PayPal, pag...
+- 🐦 [WP_pkpremium](https://github.com/mondary/WP_pkpremium) - WordPress plugin to manage the Mondary premium offer: PayPal subscriptions, d...
 - 🦞 [WP_pkSocialSharing](https://github.com/mondary/WP_pkSocialSharing) - PK LinkedIn Auto Publish (WordPress)
 - 🎵 [WP_ProjectsPage](https://github.com/mondary/WP_ProjectsPage) - Various tools
 - 🍭 [WP_RSocial](https://github.com/mondary/WP_RSocial) - WP RSocial (assets)
-- 🧾 [WP_Snippets](https://github.com/mondary/WP_Snippets) - ✨ Collection de snippets WordPress orientée productivité admin, publication e...
+- 🧾 [WP_Snippets](https://github.com/mondary/WP_Snippets) - ✨ Collection of WordPress snippets focused on admin productivity, publishing ...
 - 📸 [WP_websocket](https://github.com/mondary/WP_websocket) - Various tools
 - 🖥️ [WP_WordpressPOSTS](https://github.com/mondary/WP_WordpressPOSTS) - Various tools
 - 🗣️ [WP_wpagent](https://github.com/mondary/WP_wpagent) - PKwpagent (WordPress plugin)
