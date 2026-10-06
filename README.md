@@ -18,7 +18,7 @@ Current Projects
 - 👻 [Chrome_Send2Wordpress](https://github.com/mondary/Chrome_Send2Wordpress) - Minimalist Chrome extension to quickly summarize and publish content WordPress
 - 💬 [Chrome_WPautomation](https://github.com/mondary/Chrome_WPautomation) - Various tools
 - 🎯 [CLI_WPpostdraft ++](https://github.com/mondary/CLI_WPpostdraft) - WordPress scripts are centralized in with one shared credentials file secrets
-- 🧿 [GH_HomebrewCask](https://github.com/mondary/homebrew-tap) - Homebrew tap for PK apps
+- 🛡️ [GH_homebrew-tap](https://github.com/mondary/homebrew-tap) - Homebrew tap for PK apps
 - 🧁 [holdmynotePK](https://github.com/aimen08/noty) - At rest Fanned A note pulled open
 - 🎚️ [Macos_FinderGithubLogo](https://github.com/mondary/Macos_FinderGithubLogo) - Script to replace folder icons for GitHub repos
 - 🍭 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Automation Tools The operational project lives in src code, CLI wrappers, ins...
