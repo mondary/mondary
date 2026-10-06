@@ -4,79 +4,64 @@
 🌱 I love vibecoding with Claude, Cursor, and lightweight stacks.
 ⚙️ Currently exploring the intersection of AI agents and development workflows.
 💬 Ask me about macOS apps, Chrome extensions, CLI tools, or AI automation.
-⚡ Fun fact: I have 69+ projects and counting.
+⚡ Fun fact: I have 54+ projects and counting.
 
 Current Projects
 ---
-- 👉 [Chrome_MondaryNewTab](https://github.com/mondary/Chrome_MondaryNewTab) - Chrome extension that replaces the New tab with a mosaic of latest articles p...
-- 💻 [Chrome_PKchromeShortcuts](https://github.com/mondary/Chrome_PKchromeShortcuts) - Chrome extension to control tabs, navigation, and split view with keyboard sh...
-- 🎹 [Chrome_pkhighlighter](https://github.com/mondary/Chrome_pkhighlighter) - A userscript that highlights keywords and strikes through excluded phrases, w...
-- 🎪 [Chrome_PKscreenshotResizer](https://github.com/mondary/Chrome_PKscreenshotResizer) - Chrome extension to resize window 1200x1200 pixels and capture screenshots
+- 📸 [CHROME-WPgptPost ++](https://github.com/mondary/CHROME-WPgptPost) - Various tools
+- 🔊 [Chrome_PKhighlighter](https://github.com/mondary/Chrome_pkhighlighter) - A Chrome extension that highlights your keywords and strikes through excluded...
+- 🛡️ [Chrome_PKnewTab](https://github.com/mondary/Chrome_PKnewTab) - A beautiful way to start browsing every new tab shows the latest articles fro...
+- 🛑 [Chrome_PKshortcuts](https://github.com/mondary/Chrome_PKshortcuts) - Chrome extension to control tabs, navigation, and split view with keyboard sh...
 - 👻 [Chrome_PKStickyNotesChrome](https://github.com/mondary/Chrome_PKStickyNotesChrome) - Add sticky notes directly to your web pages
-- ⚡ [Chrome_RSSnoteMAIL](https://github.com/mondary/Chrome_RSSnoteMAIL) - Various tools
-- 💡 [Chrome_SimpleGMAIL](https://github.com/mondary/Chrome_SimpleGMAIL) - A Chrome extension that simplifies the Gmail interface for cleaner, more focu...
-- 🎨 [Chrome_SteamEPIC](https://github.com/mondary/Chrome_SteamEPIC) - Show your Epic Games on Steam website
-- ⚡ [Chrome_TranslateHighlighter](https://github.com/mondary/Chrome_TranslateHighlighter) - This Chrome extension provides instant text translation with two convenient m...
-- 🎯 [Chrome_WPgpt](https://github.com/mondary/Chrome_WPgpt) - Various tools
-- 👉 [CLI_agentschooser](https://github.com/mondary/CLI_agentschooser) - The script displays a colored menu, reads your choice, then runs command
-- 👉 [CLI_PKcarreerMails](https://github.com/mondary/CLI_PKcarreerMails) - The persistent browser profile is chrome_profile (cookies)
-- 🧿 [CLI_PKproc-ai](https://github.com/mondary/CLI_PKproc-ai) - Various tools
-- 🎚️ [CLI_SteamEPIC](https://github.com/mondary/CLI_SteamEPIC) - Various tools
-- 👉 [Codexbar](https://github.com/mondary/Codexbar) - Various tools
-- 🪝 [Macos_browserAgent](https://github.com/mondary/Macos_browserAgent) - Chrome MV3 extension with side panel to automate your browser via AI (Codex, ...
+- 🚦 [Chrome_PKTraduction](https://github.com/mondary/Chrome_TranslateHighlighter) - Popup translation Select any text on a webpage, the displays automatically be...
+- 🎪 [Chrome_PKweb-memory](https://github.com/mondary/Chrome_PKweb-memory) - Img srcicon.png width88 altIcône PK Web Memory
+- 👻 [Chrome_Send2Wordpress](https://github.com/mondary/Chrome_Send2Wordpress) - Minimalist Chrome extension to quickly summarize and publish content WordPress
+- 💬 [Chrome_WPautomation](https://github.com/mondary/Chrome_WPautomation) - Various tools
+- 🎯 [CLI_WPpostdraft ++](https://github.com/mondary/CLI_WPpostdraft) - WordPress scripts are centralized in with one shared credentials file secrets
+- 🧿 [GH_HomebrewCask](https://github.com/mondary/homebrew-tap) - Homebrew tap for PK apps
+- 🧁 [holdmynotePK](https://github.com/aimen08/noty) - At rest Fanned A note pulled open
+- 🎚️ [Macos_FinderGithubLogo](https://github.com/mondary/Macos_FinderGithubLogo) - Script to replace folder icons for GitHub repos
 - 🍭 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Automation Tools The operational project lives in src code, CLI wrappers, ins...
-- 👉 [Macos_PKdictation](https://github.com/mondary/Macos_PKdictation) - Various tools
-- 🥠 [Macos_PKpowerlines](https://github.com/mondary/Macos_PKpowerlines) - Ultra-lightweight macOS app showing real-time RAM usage
-- 🦀 [Macos_PKvibeyard](https://github.com/mondary/Macos_PKvibeyard) - Skill_GITHUB_publish_vscode_extension
-- 🚇 [OpenIsland](https://github.com/mondary/OpenIsland) - Various tools
-- 👉 [PKnotes](https://github.com/mondary/PKnotes) - Various tools
-- ✂️ [RC_pkscripts](https://github.com/mondary/RC_pkscripts) - Small scripts for Raycast that automate everyday tasks on macOS
-- 🪵 [Stats](https://github.com/mondary/Stats) - Local workspace for mondarystats fork with custom LLM extension
-- 🧮 [VS_pkscriptcat_snippets](https://github.com/mondary/VS_pkscriptcat_snippets) - Complete bidirectional synchronization solution for userscripts between VS Co...
-- 🧳 [VS_pkterminal](https://github.com/mondary/VS_pkterminal) - A simple and efficient VS Code extension to open terminals inside the editor ...
-- ⏳ [VS_pkvsconf](https://github.com/mondary/VS_pkvsconf) - Simple VS Code extension to boost Explorer and project navigation
-- 🗣️ [Web_about](https://github.com/mondary/Web_about) - Various tools
-- 🧿 [Web_allaitement](https://github.com/mondary/Web_allaitement) - Simple breastfeeding timer with session tracking and charts
-- 🧰 [Web_BGAcss](https://github.com/mondary/Web_BGAcss) - The BGA site is quite old-fashioned and sometimes not very clear! This an att...
-- 🧮 [Web_Cryptos](https://github.com/mondary/Web_Cryptos) - Small set of standalone HTML pages for crypto tracking and calculations
-- 💻 [Web_cuistobot](https://github.com/mondary/Web_cuistobot) - Cuistobot is a web application to manage your cooking recipes in one place
-- 🎪 [Web_cv](https://github.com/mondary/Web_cv) - Interactive web resume version 2
-- 🚀 [Web_GGdeals_collection](https://github.com/mondary/Web_GGdeals_collection) - GOG Galaxy-style web UI (original theme preserved)
-- 🦞 [Web_hub](https://github.com/mondary/Web_hub) - Personal hub centralizing all my projects, websites and extensions
-- 🍪 [Web_mondaryTOOLS](https://github.com/mondary/Web_mondaryTOOLS) - Minimal landing page for mondary
-- 🪝 [Web_Ndf](https://github.com/mondary/Web_Ndf) - Various tools
-- 🪶 [Web_pinel](https://github.com/mondary/Web_pinel) - Various tools
-- 📞 [Web_PK_ZombiGame](https://github.com/mondary/Web_PK_ZombiGame) - Various tools
-- 🔧 [Web_pkchangedetection](https://github.com/mondary/Web_pkchangedetection) - Simple PHP application to monitor web page changes
-- 🛑 [Web_pkcuisto](https://github.com/mondary/Web_pkcuisto) - Pkcuisto It is a lightweight recipe locker with authentication, an admin console...
-- 🧵 [Web_pkcuisto_WA](https://github.com/mondary/Web_pkcuisto_WA) - Pkcuisto It is a lightweight recipe locker with authentication, an admin console...
-- 🧑‍💻 [Web_pkdiffchecker](https://github.com/mondary/Web_pkdiffchecker) - Various tools
-- 🎭 [Web_PKdomains](https://github.com/mondary/Web_PKdomains) - Minimal web dashboard for tracking domain expirations with email alerts
-- 🔊 [Web_PKdotanimation](https://github.com/mondary/Web_PKdotanimation) - Various tools
-- 🏝️ [Web_pkimagetools](https://github.com/mondary/Web_pkimagetools) - In-browser background remover runs ONNX rembg-web locally, auto-crops with a ...
-- 🌈 [Web_pkmenus](https://github.com/mondary/Web_pkmenus) - A simple, beautiful web-based dashboard designed to be displayed on TV screen...
-- 🧑‍💻 [Web_PKmusicplayer](https://github.com/mondary/Web_PKmusicplayer) - Vanilla web music player driven by Markdown playlists, with Playlists Artists...
-- 🎛️ [Web_pkrubik](https://github.com/mondary/Web_pkrubik) - Croix jaune F R U
-- 🎯 [Web_pktravelgames](https://github.com/mondary/Web_pktravelgames) - 1. One player gets a question the true answer.
-- 🐾 [Web_PKwhiteboard](https://github.com/mondary/Web_PKwhiteboard) - Paste one or more URLs in the field then Enter
-- 📍 [Web_PlaningArtiste](https://github.com/mondary/Web_PlaningArtiste) - Web prototype to search for comedy show dates by department and offer an opti...
-- 🧭 [Web_Raptor](https://github.com/mondary/Web_Raptor) - Various tools
-- 🧳 [Web_SciFi](https://github.com/mondary/Web_SciFi) - Various tools
-- 🧲 [Web_Scrappers](https://github.com/mondary/Web_Scrappers) - Various tools
-- 🧹 [Web_Snippets_bga-css](https://github.com/mondary/Web_Snippets_bga-css) - The BGA site is quite old-fashioned and sometimes not very clear! This an att...
-- 🎧 [Web_steamYearinreview](https://github.com/mondary/Web_steamYearinreview) - Minimal hub for personal Steam Year in Review recaps with dynamic stats
-- 📸 [Web_test](https://github.com/mondary/Web_test) - Various tools
-- ⚙️ [Web_ZombiGame](https://github.com/mondary/Web_ZombiGame) - The game offers a complete configuration system accessible from main menu or ...
-- 🎪 [WP_pknewsletter](https://github.com/mondary/WP_pknewsletter) - WordPress plugin to manage a daily editorial newsletter with subscriber manag...
-- 🐦 [WP_pkpremium](https://github.com/mondary/WP_pkpremium) - WordPress plugin powering Mondarys premium offer PayPal subscriptions, dedica...
-- 🦞 [WP_pkSocialSharing](https://github.com/mondary/WP_pkSocialSharing) - Homemade WordPress plugin to automatically publish on LinkedIn when an articl...
-- 🎵 [WP_ProjectsPage](https://github.com/mondary/WP_ProjectsPage) - Various tools
-- 🍭 [WP_RSocial](https://github.com/mondary/WP_RSocial) - Manifest - HTML prototype labeled My Sticky Notes
+- 🐾 [Macos_monocodePK](https://github.com/mondary/monocode) - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
+- ⚡ Macos_monocodePK-legacy43 - Providers directs Claude, Codex, Cursor, Grok, OpenCode, Pi, omp, fx Z
+- 💡 Macos_monocodePK-stable - Providers directs Claude, Codex, Cursor, Grok, OpenCode, Pi, omp, fx Z
+- 💻 Macos_monocodePK-v54 - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
+- 🧹 [Macos_PKarchives](https://github.com/mondary/Macos_PKarchives) - Shared archive script
+- 🔧 [Macos_PKbrain](https://github.com/mondary/PKbrain) - Reliable target-app restoration before injecting CmdV
+- 🫐 [Macos_PKmediadownloader](https://github.com/mondary/media-downloader) - Alias pkmdApplicationsPKMediaDownloader
+- 🌊 [Macos_PKmonitor](https://github.com/mondary/PKmonitor) - Real-time sparkline with dominant application icons
+- 🛟 Macos_PKmotion - A local macOS application, CLI and skill for storyboards motion design with
+- 🥠 [Macos_PKpowerlines](https://github.com/mondary/Macos_PKpowerlines) - Curl -L -o PKpowerlines
+- 🧿 [Macos_PKScriptsUtilities](https://github.com/mondary/Macos_PKScriptsUtilities) - MacOS scripts for Raycast Menu bar application
+- 📍 [Macos_PKvoicecloner](https://github.com/mondary/Macos_PKvoicecloner) - GitHub release v0.6.0 also offers a DMG, and the Homebrew tap has cask, but n...
+- 🧿 [Macos_PKwindowsManagement](https://github.com/mondary/PKwindowsManagement) - PKwindowsManagement is a macOS menu bar app for keyboard-driven window manage...
+- 🧮 [Macos_ProjectTracker](https://github.com/mondary/Macos_ProjectTracker) - A native macOS menu bar application built with SwiftUI and Swift 6 that monit...
+- 🎯 [VS_PKterminal](https://github.com/mondary/VS_pkterminal) - A simple and efficient VS Code extension to open terminals inside the editor ...
+- 📋 [VS_PKvsconf](https://github.com/mondary/VS_pkvsconf) - Simple VS Code extension to boost Explorer and project navigation
+- 🎸 Web_About - Various tools
+- 🎺 [Web_FinanceTracker](https://github.com/mondary/Web_FinanceTracker) - Uv pip install --python
+- 🌐 [Web_Hub](https://github.com/mondary/Web_hub) - Personal hub centralizing all my projects, websites and extensions
+- ⚙️ [Web_HubApps](https://github.com/mondary/Web_HubApps) - Web hub centralizing Mondary apps app showcase, cinema page and a wallpaper c...
+- 🧽 [Web_omp-statusline-creator](https://github.com/mondary/omp-statusline-creator) - Context_total, time_spent, time, usage) description, sample rendering, leftright
+- 🪝 [Web_PKcards](https://github.com/mondary/PKcards) - Vote for your favorite games and check the Best ranking
+- 📖 [Web_PKcv](https://github.com/mondary/Web_PKcv) - Interactive web resume version 3
+- 🧰 [Web_PKimagetools](https://github.com/mondary/Web_pkimagetools) - Remove image backgrounds with remove
+- 🎭 [Web_PKLDVELH](https://github.com/mondary/Web_PKLDVELH) - P aligncenterInteractive web library for gamebooks (LDVELH)
+- 📍 Web_PKportfolio - Various tools
+- 📺 [Web_PKrubik](https://github.com/mondary/Web_pkrubik) - Various tools
+- 🎧 Web_PKstore - Web storefront of the PK app library a hub one page per application,
+- 🍺 [Web_PKTarot](https://github.com/mondary/Web_Tarot) - An editorial website for exploring the 78 Rider-Waite-Smith Tarot cards, thei...
+- 🎛️ Web_PKtransport - Lapplication répond à une seule question où puis-je me rendre depuis
+- 🗃️ [Web_PKtravelgames](https://github.com/mondary/WEB_PKtravelGames) - Black for Heads Up). Pigeon restores the original
+- 🔧 Web_PKumami - Pas de framework, build, Node
+- 🔊 Web_PKumami-Umami - Les fichiers du checkout officiel sont rangés dans UmamiOfficial
+- 🧑‍💻 [Web_PKYearInPixel](https://github.com/mondary/WP_YearInPixel) - Two layouts to choose from Classic (full-screen mosaic) or Taste (one row per...
+- 🛰️ [WP_PKnewsletter](https://github.com/mondary/WP_pknewsletter) - WordPress plugin to manage a daily editorial newsletter with subscriber manag...
+- 🎪 [WP_PKpremium](https://github.com/mondary/WP_pkpremium) - WordPress plugin powering Mondarys premium offer PayPal subscriptions, dedica...
+- 🕸️ [WP_PKSocialSharing](https://github.com/mondary/WP_pkSocialSharing) - WordPress plugin to automatically or manually share posts LinkedIn, X, Facebo...
+- 🍭 [WP_PKwordpressTools](https://github.com/mondary/WP_PKwordpressTools) - Various tools
 - 🧾 [WP_Snippets](https://github.com/mondary/WP_Snippets) - 2. Import a snippet into WordPress (Code Snippets WPCode plugin).
-- 📸 [WP_websocket](https://github.com/mondary/WP_websocket) - Various tools
-- 🖥️ [WP_WordpressPOSTS](https://github.com/mondary/WP_WordpressPOSTS) - Various tools
-- 🗣️ [WP_wpagent](https://github.com/mondary/WP_wpagent) - Plugin to capture quick topics from mobile (inbox) and turn them into drafts
-- 🧩 [WP_YearInPixel](https://github.com/mondary/WP_YearInPixel) - Various tools
+- 🛡️ Y Scripts - Various tools
 
 💬 Let's talk about
 ---
