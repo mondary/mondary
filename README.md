@@ -4,7 +4,7 @@
 🌱 I love vibecoding with Claude, Cursor, and lightweight stacks.
 ⚙️ Currently exploring the intersection of AI agents and development workflows.
 💬 Ask me about macOS apps, Chrome extensions, CLI tools, or AI automation.
-⚡ Fun fact: I have 54+ projects and counting.
+⚡ Fun fact: I have 56+ projects and counting.
 
 Current Projects
 ---
@@ -27,6 +27,7 @@ Current Projects
 - 💡 Macos_monocodePK-stable - Providers directs Claude, Codex, Cursor, Grok, OpenCode, Pi, omp, fx Z
 - 💻 Macos_monocodePK-v54 - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
 - 🧹 [Macos_PKarchives](https://github.com/mondary/Macos_PKarchives) - Shared archive script
+- 🗃️ Macos_PKbbplugins - Various tools
 - 🔧 [Macos_PKbrain](https://github.com/mondary/PKbrain) - Reliable target-app restoration before injecting CmdV
 - 🫐 [Macos_PKmediadownloader](https://github.com/mondary/media-downloader) - Alias pkmdApplicationsPKMediaDownloader
 - 🌊 [Macos_PKmonitor](https://github.com/mondary/PKmonitor) - Real-time sparkline with dominant application icons
@@ -36,6 +37,7 @@ Current Projects
 - 📍 [Macos_PKvoicecloner](https://github.com/mondary/Macos_PKvoicecloner) - GitHub release v0.6.0 also offers a DMG, and the Homebrew tap has cask, but n...
 - 🧿 [Macos_PKwindowsManagement](https://github.com/mondary/PKwindowsManagement) - PKwindowsManagement is a macOS menu bar app for keyboard-driven window manage...
 - 🧮 [Macos_ProjectTracker](https://github.com/mondary/Macos_ProjectTracker) - A native macOS menu bar application built with SwiftUI and Swift 6 that monit...
+- 🚇 pk-monocode-patches - Various tools
 - 🎯 [VS_PKterminal](https://github.com/mondary/VS_pkterminal) - A simple and efficient VS Code extension to open terminals inside the editor ...
 - 📋 [VS_PKvsconf](https://github.com/mondary/VS_pkvsconf) - Simple VS Code extension to boost Explorer and project navigation
 - 🎸 Web_About - Various tools
