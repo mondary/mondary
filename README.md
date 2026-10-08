@@ -18,7 +18,7 @@ Current Projects
 - 👻 [Chrome_Send2Wordpress](https://github.com/mondary/Chrome_Send2Wordpress) - Minimalist Chrome extension to quickly summarize and publish content WordPress
 - 💬 [Chrome_WPautomation](https://github.com/mondary/Chrome_WPautomation) - Various tools
 - 🎯 [CLI_WPpostdraft ++](https://github.com/mondary/CLI_WPpostdraft) - WordPress scripts are centralized in with one shared credentials file secrets
-- 🛡️ [GH_homebrew-tap](https://github.com/mondary/homebrew-tap) - Homebrew tap for PK apps
+- 🧿 [GH_HomebrewCask](https://github.com/mondary/homebrew-tap) - Homebrew tap for PK apps
 - 🧁 [holdmynotePK](https://github.com/aimen08/noty) - At rest Fanned A note pulled open
 - 🎚️ [Macos_FinderGithubLogo](https://github.com/mondary/Macos_FinderGithubLogo) - Script to replace folder icons for GitHub repos
 - 🍭 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Automation Tools The operational project lives in src code, CLI wrappers, ins...
@@ -78,4 +78,6 @@ Design systems & UI/UX
 ⭐️ If you are interested in what I do, you can hit the Follow button here or find me on [LinkedIn](https://www.linkedin.com/in/clementmondary/)
 📄 Check out my CV: https://mondary.me
 🧪 I share daily geek discoveries and free apps on: https://mondary.design
+📱 Explore my apps: [apps.pouark.com](https://apps.pouark.com)
+☕️ Support my work on [Ko-fi](https://ko-fi.com/pouark)
 ☕️ If you like the work that I do, you can consider sponsoring me: [GitHub Badge](https://github.com/sponsors/mondary)
