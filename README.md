@@ -19,7 +19,6 @@ Current Projects
 - 🍭 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Automation Tools The operational project lives in src code, CLI wrappers, ins...
 - 🐾 [Macos_monocodePK](https://github.com/mondary/monocode) - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
 - 🧹 [Macos_PKarchives](https://github.com/mondary/Macos_PKarchives) - Shared archive script
-- 🗃️ Macos_PKbbplugins - Various tools
 - 🔧 [Macos_PKbrain](https://github.com/mondary/PKbrain) - Reliable target-app restoration before injecting CmdV
 - 🫐 [Macos_PKmediadownloader](https://github.com/mondary/media-downloader) - Alias pkmdApplicationsPKMediaDownloader
 - 🌊 [Macos_PKmonitor](https://github.com/mondary/PKmonitor) - Real-time sparkline with dominant application icons
