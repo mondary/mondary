@@ -18,9 +18,6 @@ Current Projects
 - 🎚️ [Macos_FinderGithubLogo](https://github.com/mondary/Macos_FinderGithubLogo) - Script to replace folder icons for GitHub repos
 - 🍭 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Automation Tools The operational project lives in src code, CLI wrappers, ins...
 - 🐾 [Macos_monocodePK](https://github.com/mondary/monocode) - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
-- ⚡ Macos_monocodePK-legacy43 - Providers directs Claude, Codex, Cursor, Grok, OpenCode, Pi, omp, fx Z
-- 💡 Macos_monocodePK-stable - Providers directs Claude, Codex, Cursor, Grok, OpenCode, Pi, omp, fx Z
-- 💻 Macos_monocodePK-v54 - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
 - 🧹 [Macos_PKarchives](https://github.com/mondary/Macos_PKarchives) - Shared archive script
 - 🗃️ Macos_PKbbplugins - Various tools
 - 🔧 [Macos_PKbrain](https://github.com/mondary/PKbrain) - Reliable target-app restoration before injecting CmdV
