@@ -73,11 +73,11 @@ Chrome extensions & browser automation
 Full-stack development (Python, Swift, TypeScript, PHP)
 Design systems & UI/UX
 
-📫 How to reach me:
----
-⭐️ If you are interested in what I do, you can hit the Follow button here or find me on [LinkedIn](https://www.linkedin.com/in/clementmondary/)
-📄 Check out my CV: https://mondary.me
-🧪 I share daily geek discoveries and free apps on: https://mondary.design
-📱 Explore my apps: [apps.pouark.com](https://apps.pouark.com)
-☕️ Support my work on [Ko-fi](https://ko-fi.com/pouark)
-☕️ If you like the work that I do, you can consider sponsoring me: [GitHub Badge](https://github.com/sponsors/mondary)
+### 📫 Find me online
+
+- ⭐️ [Follow me on GitHub](https://github.com/mondary)
+- 💼 [LinkedIn](https://www.linkedin.com/in/clementmondary/)
+- 📄 [CV](https://cv.pouark.com)
+- 🧪 [Blog & discoveries](https://mondary.design)
+- 📱 [Apps library](https://apps.pouark.com)
+- ☕️ [Support me on Ko-fi](https://ko-fi.com/pouark)
