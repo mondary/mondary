@@ -22,7 +22,6 @@ Current Projects
 - 🔧 [Macos_PKbrain](https://github.com/mondary/PKbrain) - Reliable target-app restoration before injecting CmdV
 - 🫐 [Macos_PKmediadownloader](https://github.com/mondary/media-downloader) - Alias pkmdApplicationsPKMediaDownloader
 - 🌊 [Macos_PKmonitor](https://github.com/mondary/PKmonitor) - Real-time sparkline with dominant application icons
-- 🛟 Macos_PKmotion - A local macOS application, CLI and skill for storyboards motion design with
 - 🥠 [Macos_PKpowerlines](https://github.com/mondary/Macos_PKpowerlines) - Curl -L -o PKpowerlines
 - 🧿 [Macos_PKScriptsUtilities](https://github.com/mondary/Macos_PKScriptsUtilities) - MacOS scripts for Raycast Menu bar application
 - 📍 [Macos_PKvoicecloner](https://github.com/mondary/Macos_PKvoicecloner) - GitHub release v0.6.0 also offers a DMG, and the Homebrew tap has cask, but n...
