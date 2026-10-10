@@ -19,7 +19,7 @@ Current Projects
 - 🎙️ [Chrome_WPgptPost](https://github.com/mondary/CHROME-WPgptPost) - Chrome extension that grabs the current page title and meta description, then
 - 🎚️ [Macos_FinderGithubLogo](https://github.com/mondary/Macos_FinderGithubLogo) - Script to replace folder icons for GitHub repos
 - 🍭 [Macos_GithubProjects](https://github.com/mondary/Macos_GithubProjects) - Automation Tools The operational project lives in src code, CLI wrappers, ins...
-- 🐾 [Macos_monocodePK](https://github.com/mondary/monocode) - Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, Open...
+- 🐾 Macos_monocodePK - Various tools
 - 🧹 [Macos_PKarchives](https://github.com/mondary/Macos_PKarchives) - Shared archive script
 - 🔧 [Macos_PKbrain](https://github.com/mondary/PKbrain) - Reliable target-app restoration before injecting CmdV
 - 🫐 [Macos_PKmediadownloader](https://github.com/mondary/media-downloader) - Alias pkmdApplicationsPKMediaDownloader
